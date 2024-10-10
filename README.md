@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Yusraa! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> </h1>
-<h3 align="center" style="color: Blue;">Skilled Software Engineer, &nbsp Committed Cybersecurity Aficionado, &nbsp Computer Science Graduate
+<h3 align="center" style="color: Blue;">Skilled Software Engineer, &nbsp Driven AI Innovator, &nbsp Computer Science Graduate
 </h3>
 <br/>
 <a href="https://linkedin.com/in/yusramsd"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## 
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to work as a security and forensics analyst.
+My journey in computer science has fueled a strong passion for AI, where I am actively working as an AI & ML engineer, continually expanding my expertise and driving innovation in this field.
 
 A couple of years back, it dawned on me that I wanted to channel my efforts towards being exceptionally helpful. As a result, I've embarked on a journey to contribute increasingly to open-source projects 😛 So, consider this space my playground for open-sourcing goodies and playfully breaking things 🤣😉
 <br/>
@@ -53,7 +53,7 @@ A couple of years back, it dawned on me that I wanted to channel my efforts towa
  - Technology and software
  - AI & Cybersecurity
  - Books
- - National Geographic
+ - NatGeo, ColdFusion, SharkTanks
  - Volunteering
 
 
